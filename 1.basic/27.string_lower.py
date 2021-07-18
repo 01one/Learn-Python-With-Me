@@ -1,7 +1,7 @@
 x="Hello"
-print(x.lower()) #print hello
+print(x.lower()) #hello
 
-print(x)       #print Hello
+print(x)       #Hello
 
 x=x.lower()
-print(x)       #print hello
+print(x)       #hello
