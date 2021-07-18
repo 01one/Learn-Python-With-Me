@@ -18,3 +18,6 @@ print(x)    #HEllO
 #string is immutable.
 x=x[:]+" world"
 print(x)    #HEllO world
+
+a=len(x)
+print(a)  #4
