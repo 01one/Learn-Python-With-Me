@@ -1,11 +1,11 @@
 x=[1,2,3,4,5]  #list
-print(x)
+print(x)    #[1,2,3,4,5]
 print(x[0]) #1
 
-print(x[:]) #[1, 2, 3, 4, 5]
+print(x[:]) #[1,2,3,4,5]
 
 x[0]=2
-print(x)    #[2, 2, 3, 4, 5]
+print(x)    #[2,2,3,4,5]
 
 x.pop(4)
 print(x)    #[2,2,3,4] #remove item at index 4
