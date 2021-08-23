@@ -1,11 +1,6 @@
 for number in range(5):
 	print(number)# result 0,1,2,3,4
 	#start from 0 and ends at 4
-	#0 at index 1,
-	#1 at index 2 
-	#2 at index 3
-	#3 at index 4
-	#4 at index 5
 	
 for number in range(1,10):
 	print(number) #result 1,2,3,4,5,6,7,8,9
