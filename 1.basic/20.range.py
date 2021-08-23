@@ -8,7 +8,7 @@ for number in range(5):
 	#4 at index 5
 	
 for number in range(1,10):
-	print(number) #reslut 1,2,3,4,5,6,7,8,9
+	print(number) #result 1,2,3,4,5,6,7,8,9
 	#start from index 2 
 	
 for number in range(2,10):
